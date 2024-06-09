@@ -1,0 +1,43 @@
+@import url('colors.css');
+
+.sidebar {
+    position: fixed;
+    width: 250px;
+    margin-top: 25px;
+}
+
+.sidebar__list {
+    list-style-type: none;
+}
+
+.sidebar__list__item {
+    font-size: 14px;
+}
+
+.sidebar__list__item:hover {
+    background-color: var(--gray-light);
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+
+.sidebar__list__item.active {
+    background-color: var(--secondary-color);
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+
+.sidebar__list__item a {
+    text-decoration: none;
+    text-transform: none;
+    text-align: left;
+    color: var(--text-primary);
+    padding: 5px 25px;
+    display: flex;
+    align-items: center;
+}
+
+.sidebar__list__item__icon {
+    font-variation-settings: 'FILL' 0, 'wght' 350, 'GRAD' 0, 'opsz' 24;
+    cursor: pointer;
+    margin-right: 15px;
+}

@@ -1,0 +1,40 @@
+@import url('colors.css');
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    height: 85px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.header__left {
+    display: flex;
+    align-items: center;
+}
+
+.header__acadon {
+    color: var(--text-secondary);
+    font-weight: bolder;
+    padding-left: 25px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.header__right {
+    display: flex;
+    align-items: center;
+}
+
+.header__user {
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    color: var(--white);
+    cursor: pointer;
+    border: none;
+    outline: none;
+}

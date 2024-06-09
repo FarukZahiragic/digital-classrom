@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|c:\\users\\hadir\\desktop\\grupa6-tim23-acadon\\acadon\\acadon\\controllers\\cascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|solutionrelative:acadon\\controllers\\cascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|c:\\users\\hadir\\desktop\\grupa6-tim23-acadon\\acadon\\acadon\\models\\cas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|solutionrelative:acadon\\models\\cas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|c:\\users\\hadir\\desktop\\grupa6-tim23-acadon\\acadon\\acadon\\viewmodels\\casviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|solutionrelative:acadon\\viewmodels\\casviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|c:\\users\\hadir\\desktop\\grupa6-tim23-acadon\\acadon\\acadon\\models\\razred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|solutionrelative:acadon\\models\\razred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|c:\\users\\hadir\\desktop\\grupa6-tim23-acadon\\acadon\\acadon\\models\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|solutionrelative:acadon\\models\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|c:\\users\\hadir\\desktop\\grupa6-tim23-acadon\\acadon\\acadon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|solutionrelative:acadon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|c:\\users\\hadir\\desktop\\grupa6-tim23-acadon\\acadon\\acadon\\views\\cas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B70E5EB4-F389-4613-BA43-148277585C61}|Acadon\\Acadon.csproj|solutionrelative:acadon\\views\\cas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Views\\Cas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Acadon\\Views\\Cas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Views\\Cas\\Index.cshtml",
+              "RelativeToolTip": "Acadon\\Views\\Cas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T16:45:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Acadon\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Acadon\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:52:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Predmet.cs",
+              "DocumentMoniker": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Models\\Predmet.cs",
+              "RelativeDocumentMoniker": "Acadon\\Models\\Predmet.cs",
+              "ToolTip": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Models\\Predmet.cs",
+              "RelativeToolTip": "Acadon\\Models\\Predmet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:46:41.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Razred.cs",
+              "DocumentMoniker": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Models\\Razred.cs",
+              "RelativeDocumentMoniker": "Acadon\\Models\\Razred.cs",
+              "ToolTip": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Models\\Razred.cs",
+              "RelativeToolTip": "Acadon\\Models\\Razred.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:46:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\ViewModels\\CasViewModel.cs",
+              "RelativeDocumentMoniker": "Acadon\\ViewModels\\CasViewModel.cs",
+              "ToolTip": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\ViewModels\\CasViewModel.cs",
+              "RelativeToolTip": "Acadon\\ViewModels\\CasViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:44:23.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cas.cs",
+              "DocumentMoniker": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Models\\Cas.cs",
+              "RelativeDocumentMoniker": "Acadon\\Models\\Cas.cs",
+              "ToolTip": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Models\\Cas.cs",
+              "RelativeToolTip": "Acadon\\Models\\Cas.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:30:59.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CasController.cs",
+              "DocumentMoniker": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Controllers\\CasController.cs",
+              "RelativeDocumentMoniker": "Acadon\\Controllers\\CasController.cs",
+              "ToolTip": "C:\\Users\\Hadir\\Desktop\\grupa6-tim23-acadon\\Acadon\\Acadon\\Controllers\\CasController.cs",
+              "RelativeToolTip": "Acadon\\Controllers\\CasController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:57:26.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

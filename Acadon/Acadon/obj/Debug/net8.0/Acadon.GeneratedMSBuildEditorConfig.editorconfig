@@ -1,0 +1,183 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Acadon
+build_property.RootNamespace = Acadon
+build_property.ProjectDir = C:\Users\Hadir\Desktop\grupa6-tim23-acadon\Acadon\Acadon\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hadir\Desktop\grupa6-tim23-acadon\Acadon\Acadon
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Cas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Cas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Cas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Cas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Cas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Izostanak/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXpvc3RhbmFrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Izostanak/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXpvc3RhbmFrXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Izostanak/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXpvc3RhbmFrXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Izostanak/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXpvc3RhbmFrXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Izostanak/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXpvc3RhbmFrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Ocjena/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NqZW5hXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Ocjena/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NqZW5hXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Ocjena/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NqZW5hXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Ocjena/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NqZW5hXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Ocjena/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NqZW5hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Predmet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZG1ldFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Predmet/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZG1ldFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Predmet/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZG1ldFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Predmet/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZG1ldFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Predmet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZG1ldFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/RazredPredmet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkUHJlZG1ldFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/RazredPredmet/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkUHJlZG1ldFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/RazredPredmet/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkUHJlZG1ldFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/RazredPredmet/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkUHJlZG1ldFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/RazredPredmet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkUHJlZG1ldFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Razred/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Razred/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Razred/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Razred/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Razred/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6cmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hadir/Desktop/grupa6-tim23-acadon/Acadon/Acadon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fxkgv7o8f2

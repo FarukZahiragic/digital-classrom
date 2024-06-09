@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Acadon.ViewModels.CasViewModel>
+
+@{
+    ViewData["Title"] = "Podaci o casovima";
+}
+
+<h1>Podaci o časovima</h1>
+
+<p>
+    <a asp-action="Create">Dodaj novi čas:</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().PredmetNaziv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().RazredNaziv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Vrijeme)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PredmetNaziv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RazredNaziv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vrijeme)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Uredi</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Prikaži detalje</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Izbriši</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
